@@ -23,7 +23,7 @@ Tool | Description
 [**Colorhunt**](https://www.colorhunt.co) | Get color inspiration for your design and art projects.
 [**Adobe Kuler**](https://color.adobe.com) | Easy to create and modify color palette with Adobe.
 [**Paletton**](https://paletton.com) | Designed to help all sorts of color projects, from professional work to your kids school projects. 
-[**Colllor**](https://www.colllor.com) | Create consistent color palettes. 
+[**Colllor**](http://www.colllor.com) | Create consistent color palettes. 
 
 # Design Inspiration 💡
 Software | Description
@@ -69,7 +69,7 @@ Software | Description
 # Pixel Art 👾
 Software | Description
 ---- | ----
-[**grafX2**](https://www.grafx2.chez.com) | A bitmap paint program inspired by the Amiga programs Deluxe Paint and Brilliance.
+[**grafX2**](http://grafx2.chez.com/) | A bitmap paint program inspired by the Amiga programs Deluxe Paint and Brilliance.
 [**GIMP**](https://www.gimp.org) | A cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. 
 [**Piskel**](https://www.piskelapp.com) | A free online editor for animated sprites & pixel art. 
 [**Pixilart**](https://www.pixilart.com) | Ultimate pixel drawing tool. Make beautiful pixel art, GIF animations and even draw online together with others.
@@ -95,7 +95,7 @@ Software | Description
 # Wireframing 🧮
 Software | Description
 ---- | ----
-[**Belsamiq**](https://belsamiq.com) | With Balsamiq Wireframes, anyone can design great web apps, illustrations.
+[**Balsamiq**](https://balsamiq.com) | With Balsamiq Wireframes, anyone can design great web apps, illustrations.
 [**Adobe InDesign**](https://adobe.com/products/indesign) | Collaborate with others seamlessly with Import PDF Comments & Reviewing feature!
 [**UX Pin**](https://uxpin.com) | Lets designers and developers use the same components synced from Git repository to build products faster. 
 
