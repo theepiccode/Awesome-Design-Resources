@@ -102,6 +102,9 @@ Software | Description
 # Unity
 Resources | Description
 ---- | ----
+[**Android Authority**](https://www.androidauthority.com/what-is-unity-1131558/) | Android Authority is the largest independent publication dedicated to the world's most widely used operating system.
+[**Unity YouTube Channel**](https://www.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg) | Unity is the creator of the world’s most widely-used real-time 3D (RT3D) development platform, giving content creators around the world the tools to create rich, interactive 2D, 3D, VR and AR experiences.
+[**Unity Asset Store**](https://assetstore.unity.com/tools/level-design) | Unity Products and Tools.
 
 
 
