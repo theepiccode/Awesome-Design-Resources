@@ -99,5 +99,14 @@ Software | Description
 [**Adobe InDesign**](https://adobe.com/products/indesign) | Collaborate with others seamlessly with Import PDF Comments & Reviewing feature!
 [**UX Pin**](https://uxpin.com) | Lets designers and developers use the same components synced from Git repository to build products faster. 
 
+# Unity
+Resources | Description
+---- | ----
+[**Android Authority**](https://www.androidauthority.com/what-is-unity-1131558/) | Android Authority is the largest independent publication dedicated to the world's most widely used operating system.
+[**Unity YouTube Channel**](https://www.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg) | Unity is the creator of the world’s most widely-used real-time 3D (RT3D) development platform, giving content creators around the world the tools to create rich, interactive 2D, 3D, VR and AR experiences.
+[**Unity Asset Store**](https://assetstore.unity.com/tools/level-design) | Unity Products and Tools.
+
+
+
 TheEpicCode team will keep adding more resources for Design from all domains.
 If you want to get involved with the community and publish your articles on our [website](https://theepiccode.com/), join our [Discord Server](https://invite.theepiccode.com). 
