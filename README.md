@@ -91,6 +91,7 @@ Software | Description
 [**Sketch**](https://sketch.com) | The home for your entire collaborative design process. 
 [**Invision**](https://invison.com) | The digital product design platform used to make the world's best customer experiences. InVisionApp, Inc.
 [**Origami**](https://origami.design) | Design, animate, and prototype. All-in-one.
+[**Cabana**](https://www.cabanaforfigma.com) | Cabana is an entire workflow for figma, used by both designers and developers.
 
 # Wireframing 🧮
 Software | Description
